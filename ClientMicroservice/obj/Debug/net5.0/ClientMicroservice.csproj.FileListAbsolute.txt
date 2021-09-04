@@ -1,0 +1,178 @@
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/appsettings.Development.json
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/appsettings.json
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.deps.json
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.runtimeconfig.json
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.runtimeconfig.dev.json
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/ref/ClientMicroservice.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.csproj.AssemblyReference.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.AssemblyInfoInputs.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.AssemblyInfo.cs
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.csproj.CoreCompileInputs.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.MvcApplicationPartsAssemblyInfo.cs
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.MvcApplicationPartsAssemblyInfo.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/staticwebassets/ClientMicroservice.StaticWebAssets.Manifest.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/staticwebassets/ClientMicroservice.StaticWebAssets.xml
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/scopedcss/bundle/ClientMicroservice.styles.css
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.RazorTargetAssemblyInfo.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.csproj.CopyComplete
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ref/ClientMicroservice.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.genruntimeconfig.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/appsettings.Development.json
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/appsettings.json
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.deps.json
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.runtimeconfig.json
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.runtimeconfig.dev.json
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/ref/ClientMicroservice.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.csproj.AssemblyReference.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.AssemblyInfoInputs.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.AssemblyInfo.cs
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.csproj.CoreCompileInputs.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.MvcApplicationPartsAssemblyInfo.cs
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.MvcApplicationPartsAssemblyInfo.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/staticwebassets/ClientMicroservice.StaticWebAssets.Manifest.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/staticwebassets/ClientMicroservice.StaticWebAssets.xml
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/scopedcss/bundle/ClientMicroservice.styles.css
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.RazorTargetAssemblyInfo.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.csproj.CopyComplete
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ref/ClientMicroservice.dll
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.pdb
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.genruntimeconfig.cache
+/Users/tonclem/Documents/My-Med Back/ClientMicroservice/Client MS/ClientMicroservice/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/appsettings.Development.json
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/appsettings.json
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.deps.json
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.runtimeconfig.json
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.runtimeconfig.dev.json
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/ref/ClientMicroservice.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/ClientMicroservice.pdb
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.csproj.AssemblyReference.cache
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.AssemblyInfoInputs.cache
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.AssemblyInfo.cs
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.csproj.CoreCompileInputs.cache
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.MvcApplicationPartsAssemblyInfo.cs
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.MvcApplicationPartsAssemblyInfo.cache
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/staticwebassets/ClientMicroservice.StaticWebAssets.Manifest.cache
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/staticwebassets/ClientMicroservice.StaticWebAssets.xml
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/scopedcss/bundle/ClientMicroservice.styles.css
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.RazorTargetAssemblyInfo.cache
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.csproj.CopyComplete
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ref/ClientMicroservice.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.pdb
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/obj/Debug/net5.0/ClientMicroservice.genruntimeconfig.cache
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/KissLog.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/KissLog.AspNetCore.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/KissLog.CloudListeners.dll
+/Users/tonclem/Documents/Med-Back2/ClientMs/ClientMicroservice/bin/Debug/net5.0/Newtonsoft.Json.dll

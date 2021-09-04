@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5B9853E2-93C1-485B-AD35-716EDCAF7135}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClientMicroservice/Controllers/ClientController.cs">
+    <Files>
+      <File FileName="ClientMicroservice/Services/UserService.cs" Line="19" Column="26" />
+      <File FileName="ClientMicroservice/Controllers/ClientController2.cs" Line="13" Column="1" />
+      <File FileName="ClientMicroservice/Controllers/ClientController.cs" Line="121" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClientMicroservice" expanded="True">
+            <Node name="ClientMicroservice" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ClientController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ClientMicroservice PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
